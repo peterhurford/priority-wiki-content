@@ -4,3 +4,4 @@
 ## Header
 
 * [80,000 Hours on Biosecurity](https://80000hours.org/problem-profiles/biosecurity/)
+* [OpenPhil Shallow Review on Biosecurity](https://www.openphilanthropy.org/research/cause-reports/biosecurity)
