@@ -1,0 +1,6 @@
+<!-- TITLE: Global Priorities Research -->
+<!-- SUBTITLE: Prioritize the Art of Prioritization -->
+
+## Header
+
+* [80,000 Hours on Priorities Research](https://80000hours.org/problem-profiles/global-priorities-research/)
