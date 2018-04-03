@@ -1,5 +1,5 @@
 <!-- TITLE: Reducing Risks from Artifical Intelligence -->
-<!-- SUBTITLE: AI -->
+<!-- SUBTITLE: Making sure the world doesn't go FOOM -->
 
 ## Technical Work
 
