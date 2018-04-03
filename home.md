@@ -105,5 +105,4 @@ Altruism retention
 Cleaner, more plentiful energy
 Other things I forgot
 Other things I don’t know about
-More ice cream for everyone
 ...
