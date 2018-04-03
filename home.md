@@ -3,7 +3,7 @@
 
 # List of Causes
 * [Reducing risks from artifical intelligence](ai)
-* Promoting effective altruism
+* [Promoting effective altruism](/promoting-ea)
 * Global priorities research
 * Improving institutional decision making
 * Improving nonhuman animal welfare / animal rights
