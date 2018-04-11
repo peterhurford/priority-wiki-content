@@ -7,4 +7,4 @@
 
 ## Artificial Meat
 
-* Coming soon
+* [ACE's Timeline on Cost-Competitive Meat](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
