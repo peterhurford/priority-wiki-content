@@ -1,4 +1,4 @@
-<!-- TITLE: Priority Wiki: Main Page -->
+<!-- TITLE: Priority Wiki -->
 <!-- SUBTITLE: The Main Page -->
 
 # List of Causes
@@ -27,7 +27,7 @@
 * [Improving nonhuman animal welfare / animal rights](/animals)
 * [Land use / housing reform](/housing)
 * [Improving mental health](/mental-health)
-* Criminal justice reform
+* [Criminal justice reform](/criminal-justice)
 
 
 ## Economic Development
