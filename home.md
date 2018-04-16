@@ -15,7 +15,7 @@
 * Reducing risks from nanotechnology
 * Improving cybersecurity
 * Reducing risks from supervolcanoes
-* Reducing risks from asteroids
+* [Reducing risks from asteroids](/asteroids)
 * Creating refuges
  
  
@@ -43,8 +43,10 @@
 * [Advocating for increased foreign aid](/advocating-for-aid)
 * [Improving macroeconomic policy](/macroeconomics)
 * [Party politics](/party-politics)
+* [Improving taxation policy](/taxation)
+* [Broadband policy](/broadband)
 * Improving journalism
-* Improving drug policy
+* [Improving drug policy](/drug-policy)
 * Improving transportation
 * Patent reform
 
@@ -56,6 +58,7 @@
 * [Improving global trade](/global-trade)
 * [Increasing immigration / open borders](/immigration)
 * [Improving or increasing economic development research](/development-research)
+* [Developed world health policy](/developed-world-health)
 * Removing lead
 * Improving open source software
 
