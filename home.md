@@ -47,6 +47,7 @@
 
 ## Fundamental Science
 
+* [Improving efficiency of and access to energy](/energy)
 * Anti-aging
 * Human enhancement
 
