@@ -38,21 +38,22 @@
 
 ## Economic Development
 
-* Improving developing world health / reducing poverty
+* [Improving developing world health](
+* Reducing extreme poverty
 * [Improving global trade](/global-trade)
 * [Increasing immigration / open borders](/immigration)
+* [Improving or increasing economic development research](/development-research)
 
 
 ## Fundamental Science
 
 * Anti-aging
+* Human enhancement
 
 
 # Uncat
 Cash transfers
-Open borders
 Party politics
-Foreign aid lobbying
 Antibiotic resistance
 Improving cybersecurity
 More inter-cultural exchange
