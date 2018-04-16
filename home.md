@@ -12,7 +12,7 @@
 * [Reducing risks from climate change](/climate)
 * [Geomagnetic Storms](/geomagnetic-storms)
 * [Addressing overpopulation and resource scarcity](/resource-scarcity)
-* Reducing risks from nanotechnology
+* [Reducing risks from nanotechnology / atomically precise manufacturing](/nanotechnology)
 * Improving cybersecurity
 * Reducing risks from supervolcanoes
 * [Reducing risks from asteroids](/asteroids)
