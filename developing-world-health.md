@@ -51,6 +51,7 @@
 
 ## Smoking in the Developing World
 
+* [OpenPhil on Tobacco Control in Low- and Middle-Income Countries](https://www.openphilanthropy.org/research/cause-reports/tobacco-control)
 * [80,000 Hours Profile on Smoking in the Developing World](https://80000hours.org/problem-profiles/tobacco/)
 * [Charity Entrepreneurship on Tobacco Taxation](http://www.charityentrepreneurship.com/blog/tobacco-taxation)
 
