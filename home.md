@@ -48,6 +48,7 @@
 ## Fundamental Science
 
 * [Improving efficiency of and access to energy](/energy)
+* [Biomedical Research](/biomedical)
 * Anti-aging
 * Human enhancement
 
