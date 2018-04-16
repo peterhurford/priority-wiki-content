@@ -40,7 +40,7 @@
 ## Economic Development
 
 * [Improving developing world health](/developing-world-health)
-* Reducing extreme poverty
+* [Reducing extreme poverty and improving economic empowerment](/extreme-poverty)
 * [Improving global trade](/global-trade)
 * [Increasing immigration / open borders](/immigration)
 * [Improving or increasing economic development research](/development-research)
