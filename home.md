@@ -11,6 +11,7 @@
 * [Improving nuclear security](/nukes)
 * [Reducing risks from climate change](/climate)
 * [Geomagnetic Storms](/geomagnetic-storms)
+* [Addressing resource scarcity](/resource-scarcity)
  
  
  ## Improving Research, Decisions, and Values
