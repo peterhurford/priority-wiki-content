@@ -59,6 +59,7 @@
 * [Increasing immigration / open borders](/immigration)
 * [Improving or increasing economic development research](/development-research)
 * [Developed world health policy](/developed-world-health)
+* [Developed world educaiton](/developed-world-education)
 * Removing lead
 * Improving open source software
 
