@@ -3,9 +3,10 @@
 
 # List of Causes
 
-## Existential / Future Risks
+## Existential / Catastrophic Future Risks
 
-* [Reducing risks from artifical intelligence](ai)
+* [General background on existensital / catastrophic future risks](/future-risks-background)
+* [Reducing risks from artifical intelligence](/ai)
 * [Improving biosecurity](/biosecurity)
 * [Improving nuclear security](/nukes)
 * [Reducing risks from climate change](/climate)
@@ -24,10 +25,12 @@
 
 ## Improving Policy
 
+* [General background on improving policy](/policy-background)
 * [Improving nonhuman animal welfare / animal rights](/animals)
 * [Land use / housing reform](/housing)
 * [Improving mental health](/mental-health)
 * [Criminal justice reform](/criminal-justice)
+* [Improving macroeconomic policy](/macroeconomics)
 
 
 ## Economic Development
