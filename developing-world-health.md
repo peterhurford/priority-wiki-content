@@ -54,6 +54,12 @@
 * [Charity Entrepreneurship on Tobacco Taxation](http://www.charityentrepreneurship.com/blog/tobacco-taxation)
 
 
+## Traffic Safety
+
+* [OpenPhil Shallow Review on Developing World Traffic Safety](https://www.openphilanthropy.org/research/cause-reports/traffic-safety) 
+* [GiveWell on Zusha! (Traffic Safety)](https://blog.givewell.org/2017/02/28/considering-zusha-potential-2017-top-charity/)
+
+
 ## Other
 
 * [GiveWell on Cataract Surgery](https://www.givewell.org/international/technical/programs/cataract-surgery)
@@ -61,7 +67,6 @@
 * [GiveWell on Combination Deworming](https://www.givewell.org/international/technical/programs/deworming)
 * [GiveWell on DMI (Media to Improve Public Health)](https://www.givewell.org/charities/DMI)
 * [GiveWell on Sayana Press (injectible contraceptive)](https://www.givewell.org/international/technical/programs/sayana-press)
-
 * [GiveWell on Mass Administration of Albendazole and Ivermectin to Eliminate Lymphatic Filariasis](https://www.givewell.org/international/technical/programs/lymphatic-filariasis)
 * [GiveWell on Mass Drug Administration to Control Onchocerciasis (aka River Blindness)](https://www.givewell.org/international/technical/programs/river-blindness)
 * [GiveWell on SAFE Strategy to Control Trachoma](https://www.givewell.org/international/technical/programs/SAFE)
