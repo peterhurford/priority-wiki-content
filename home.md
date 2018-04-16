@@ -16,7 +16,7 @@
 * Improving cybersecurity
 * [Reducing risks from supervolcanoes](/volcanoes)
 * [Reducing risks from asteroids](/asteroids)
-* Creating refuges
+* [Creating disaster shelters / refuges](/refuges)
  
  
  ## Improving Research, Decisions, and Values
