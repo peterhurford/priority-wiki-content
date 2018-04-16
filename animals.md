@@ -7,4 +7,5 @@
 
 ## Artificial Meat
 
+* [OpenPhil Medium Investigation on Animal Product Alternatives](https://www.openphilanthropy.org/research/cause-reports/animal-product-alternatives)
 * [ACE's Timeline on Cost-Competitive Meat](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
