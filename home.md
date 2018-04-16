@@ -71,7 +71,7 @@
 * [Anti-aging](/aging)
 * Cryonics
 * Human enhancement
-* Addressing antibiotic resistance
+* [Addressing antibiotic resistance](/antibiotics)
 * Positive psychology
 * CRISPR
 * Nootropics
