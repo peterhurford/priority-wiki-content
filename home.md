@@ -14,7 +14,7 @@
 * [Addressing overpopulation and resource scarcity](/resource-scarcity)
 * [Reducing risks from nanotechnology / atomically precise manufacturing](/nanotechnology)
 * Improving cybersecurity
-* Reducing risks from supervolcanoes
+* [Reducing risks from supervolcanoes](/volcanoes)
 * [Reducing risks from asteroids](/asteroids)
 * Creating refuges
  
