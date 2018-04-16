@@ -27,7 +27,7 @@
 * [Promoting effective altruism](/promoting-ea)
 * Fundraising for effective charities
 * Promoting rationality, wisdom, and other good values
-* Fostering peace and reducing international conflict
+* [Fostering peace and reducing international conflict](/peace)
 * Fostering inter-cultural exchange
 
 
