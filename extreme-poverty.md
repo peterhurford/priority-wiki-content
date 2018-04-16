@@ -7,3 +7,4 @@
 * [GiveWell on Developing World Education](https://www.givewell.org/international/education)
 * [GiveWell on Unconditional Cash Transfers](https://www.givewell.org/international/technical/programs/cash-transfers)
 * [GiveWell on Microfinance](https://www.givewell.org/international/economic-empowerment/microfinance)
+* [OpenPhil on Business in Low-Income Countries](https://www.openphilanthropy.org/research/cause-reports/business-environment)
