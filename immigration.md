@@ -4,6 +4,7 @@
 ## Policy Work
 
 * [OpenPhil's Focus on Immigration Policy](https://www.openphilanthropy.org/focus/us-policy/immigration-policy)
+* [OpenPhil Shallow Review on Labor Mobility](https://www.openphilanthropy.org/research/cause-reports/labor-mobility)
 * [Practical Case for Open Borders](https://openborders.info/practical-case/)
 
 ## Other
