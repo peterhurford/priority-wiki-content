@@ -48,7 +48,7 @@
 * Improving journalism
 * [Improving drug policy](/drug-policy)
 * Improving transportation
-* Patent reform
+* [Patent reform](/patents)
 
 
 ## Global Health and Economic Development
