@@ -42,13 +42,14 @@
 * [Improving civic access and participation](/civic-access)
 * [Advocating for increased foreign aid](/advocating-for-aid)
 * [Improving macroeconomic policy](/macroeconomics)
+* [Party politics](/party-politics)
 * Improving journalism
 * Improving drug policy
 * Improving transportation
 * Patent reform
 
 
-## Economic Development
+## Global Health and Economic Development
 
 * [Improving developing world health](/developing-world-health)
 * [Reducing extreme poverty and improving economic empowerment](/extreme-poverty)
