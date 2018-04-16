@@ -41,6 +41,7 @@
 
 * [GiveWell on Condom Promotion and Distribution to Prevent HIV/AIDS](https://www.givewell.org/international/technical/programs/condom-distribution)
 * [GiveWell on Oral Pre-exposure Prophylaxis (PrEP) for HIV](https://www.givewell.org/international/technical/programs/oral-prep-for-hiv)
+* [OpenPhil on Improving Funding Allocation within HIV/AIDS Programs in Developing Countries](https://www.openphilanthropy.org/research/cause-reports/improving-HIV-AIDS-funding)
 
 #### Antiretroviral Therapy
 
