@@ -5,6 +5,7 @@
 
 ## Existential / Future Risks
 
+* [General background on existensital / catastrophic future risks](/future-risks-background)
 * [Reducing risks from artifical intelligence](ai)
 * [Improving biosecurity](/biosecurity)
 * [Improving nuclear security](/nukes)
@@ -24,6 +25,7 @@
 
 ## Improving Policy
 
+* [General background on improving policy](/policy-background)
 * [Improving nonhuman animal welfare / animal rights](/animals)
 * [Land use / housing reform](/housing)
 * [Improving mental health](/mental-health)
@@ -31,6 +33,7 @@
 * [Transformative democratic and economic refom](/transformative-reform)
 * [Improving civic access and participation](/civic-access)
 * [Advocating for increased foreign aid](/advocating-for-aid)
+* [Improving macroeconomic policy](/macroeconomics)
 
 
 ## Economic Development
