@@ -1,4 +1,4 @@
-<!-- TITLE: Creating Disaster Shelters / Refuges -->
+<!-- TITLE: Improving Disaster Survival and Recovery -->
 <!-- SUBTITLE: A quick summary of Refuges -->
 
 ## Header
