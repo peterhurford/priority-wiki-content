@@ -51,15 +51,19 @@
 * [Patent reform](/patents)
 
 
-## Global Health and Economic Development
+## Developing World Health and Economic Development
 
 * [Improving developing world health](/developing-world-health)
 * [Reducing extreme poverty and improving economic empowerment](/extreme-poverty)
 * [Improving global trade](/global-trade)
 * [Increasing immigration / open borders](/immigration)
 * [Improving or increasing economic development research](/development-research)
+
+
+## Developed World Health and Economic Development
+
 * [Developed world health policy](/developed-world-health)
-* [Developed world educaiton](/developed-world-education)
+* [Improving developed world education](/developed-world-education)
 * Removing lead
 * Improving open source software
 
