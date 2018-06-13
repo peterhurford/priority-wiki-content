@@ -4,6 +4,7 @@
 ## Overview
 
 * [80,000 Hours on Climate Change](https://80000hours.org/problem-profiles/climate-change/)
+* [Founders Pledge Cause Report on Climate Change](https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf)
 
 
 ## Geoengineering
