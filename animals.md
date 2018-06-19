@@ -6,7 +6,7 @@
 * [80,000 Hours on Factory Farming](https://80000hours.org/problem-profiles/factory-farming/)
 
 
-## Advoacy for Individual Diet Change
+## Advocacy for Individual Diet Change
 
 * Producing and promoting documentaries and movies
 * Producing and promoting books
