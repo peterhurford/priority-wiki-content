@@ -33,5 +33,5 @@
 
 
 ## Wild Animal Suffering
-* [The Importance of Wild-Animal Suffering](https://foundational-research.org/the-importance-of-wild-animal-suffering/)
+* [Brian Tomasik on The Importance of Wild-Animal Suffering](https://foundational-research.org/the-importance-of-wild-animal-suffering/)
 * Promoting humane insecticides
