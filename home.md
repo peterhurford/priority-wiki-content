@@ -5,7 +5,7 @@
 
 ## Existential / Catastrophic Future Risks
 
-* [General background on existensital / catastrophic future risks](/future-risks-background)
+* [General background on existential / catastrophic future risks](/future-risks-background)
 * [Reducing risks from artifical intelligence](ai)
 * [Improving biosecurity](/biosecurity)
 * [Improving nuclear security](/nukes)
