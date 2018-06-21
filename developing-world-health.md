@@ -50,6 +50,11 @@
 * [GiveWell on Anti-retroviral Therapy (ART) to Prevent Mother-to-Child Transmission (PMTCT) of HIV](https://www.givewell.org/international/technical/programs/PMTCT)
 
 
+## Indoor air pollution 
+
+* [WHO on Indoor air pollution](http://www.who.int/heli/risks/indoorair/indoorair/en/)
+
+
 ## Smoking in the Developing World
 
 * [OpenPhil on Tobacco Control in Low- and Middle-Income Countries](https://www.openphilanthropy.org/research/cause-reports/tobacco-control)
