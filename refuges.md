@@ -1,5 +1,5 @@
 <!-- TITLE: Improving Disaster Survival and Recovery -->
-<!-- SUBTITLE: A quick summary of Refuges -->
+<!-- SUBTITLE: A quick summary of backup plans -->
 
 ## Header
 
