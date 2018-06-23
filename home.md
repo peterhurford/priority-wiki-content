@@ -65,7 +65,7 @@
 * [Developed world health policy](/developed-world-health)
 * [Improving developed world education](/developed-world-education)
 * Removing lead
-* Improving open source software
+* [Improving open source software](/improving open source software)
 
 
 ## Specific Scientific Research
@@ -80,4 +80,4 @@
 * Positive psychology
 * [CRISPR](/CRISPR)
 * Nootropics
-* [Clean Meat](/Clean Meat)
+* Clean Meat
