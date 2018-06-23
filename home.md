@@ -78,6 +78,6 @@
 * Human enhancement
 * [Addressing antibiotic resistance](/antibiotics)
 * Positive psychology
-* CRISPR
+* [CRISPR](/CRISPR)
 * Nootropics
 * Clean Meat
