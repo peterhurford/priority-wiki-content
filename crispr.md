@@ -1,5 +1,5 @@
-<!-- TITLE: Crispr -->
-<!-- SUBTITLE: A quick summary of Crispr -->
+<!-- TITLE: CRISPR-->
+<!-- SUBTITLE: -->
 
 # CRISPR
 https://www.nature.com/articles/nbt.3439.pdf - "A CRISPR-Cas9 gene drive system targeting female reproduction in the malaria mosquito vector Anopheles gambiae." 
