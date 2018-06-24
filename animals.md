@@ -37,4 +37,6 @@
 
 ## Wild Animal Suffering
 * [Brian Tomasik on The Importance of Wild-Animal Suffering](https://foundational-research.org/the-importance-of-wild-animal-suffering/)
-* Promoting humane insecticides
+* [Wild-Animal Suffering Research](https://was-research.org/)
+* [Humane Insecticides](http://reducing-suffering.org/humane-insecticides/)
+* [Insecticides and other invertebrate population control methods](https://was-research.org/paper/analysis-lethal-methods-wild-animal-population-control-invertebrates/)
