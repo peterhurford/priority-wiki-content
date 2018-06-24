@@ -2,7 +2,7 @@
 <!-- SUBTITLE:  -->
 
 # Clean Meat
-"**Cellular agriculture: An extension of common production methods for food**" - This publication, co-written by the Senior Scientist of the Good Food Institute, gives a great overview of the science of cellular agriculture. http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf 
+* ["**Cellular agriculture: An extension of common production methods for food**"](http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf) - This publication, co-written by the Senior Scientist of the Good Food Institute, gives a great overview of the science of cellular agriculture. http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf 
 
 **""Clean Meat" is catching on: a reflection on nomenclature"**
 "What should we call meat grown outside of an animal? “Meat” is clearly important, because it is meat all the way down to to the cellular level – animal muscle, fat, and connective tissue cells.
@@ -15,3 +15,5 @@ We know that for various reasons, some people may continue saying “lab-grown�
 https://www.gfi.org/clean-meat-is-catching-on-a-reflection-on
 
 **Other useful resources** can be found at: http://www.gfi.org/resources?tag=academic+papers
+
+* [ACE's Timeline on Cost-Competitive Meat](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
