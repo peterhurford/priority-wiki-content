@@ -13,3 +13,5 @@
 
 We know that for various reasons, some people may continue saying “lab-grown” or “cultured.” That’s fine, of course. We just want everyone to understand why we prefer and advocate a shift to talking about "clean meat."" 
 https://www.gfi.org/clean-meat-is-catching-on-a-reflection-on
+
+**Other useful resources** can be found at: http://www.gfi.org/resources?tag=academic+papers
