@@ -2,7 +2,7 @@
 <!-- SUBTITLE: -->
 
 # Moral circle expansion
-* [**"Why I prioritize moral circle expansion over artificial intelligence alignment" **](http://effective-altruism.com/ea/1l0/why_i_prioritize_moral_circle_expansion_over/)
+* [**"Why I prioritize moral circle expansion over artificial intelligence alignment"**](http://effective-altruism.com/ea/1l0/why_i_prioritize_moral_circle_expansion_over/)
 This Effective Altruism Forum post by Jacy Reese outlines why he considers moral circle expansion to be an important cause area (which is one of the reasons he co-founded the Sentience Institute in 2017).
 "The basic case for MCE is very similar to the case for AIA [Artificial Intelligence Alignment]. Humanity could continue to exist for a very long time and could expand its civilization to the stars, creating a very large number of sentient beings. The sort of civilization we create, however, seems highly dependent on our moral values and moral behavior. In particular, it’s uncertain whether many of those sentient beings will receive the moral consideration they deserve based on their sentience, i.e. whether they will be in our “moral circle” or not, like the many sentient beings who have suffered intensely over the course of human history (e.g. from torture, genocide, oppression, war). It seems the moral circle can be expanded with a fairly small amount of additional resources (e.g. time, money), and therefore MCE is one of the most important projects of humanity and the EA community." 
 
