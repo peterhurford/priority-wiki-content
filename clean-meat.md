@@ -4,7 +4,7 @@
 # Clean Meat
 "**Cellular agriculture: An extension of common production methods for food**" - This publication, co-written by the Senior Scientist of the Good Food Institute, gives a great overview of the science of cellular agriculture. http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf 
 
-"**"Clean Meat" is catching on: a reflection on nomenclature **"
+**""Clean Meat" is catching on: a reflection on nomenclature"**
 "What should we call meat grown outside of an animal? “Meat” is clearly important, because it is meat all the way down to to the cellular level – animal muscle, fat, and connective tissue cells.
 
 "Lab-grown" is just wrong. At scale, clean meat will be produced in a clean facility similar to a brewery. New types of beer are developed in test labs, but beer isn’t “lab-brewed.” All processed food begins in a food lab, but we don’t call Cheerios "lab-created Cheerios."
