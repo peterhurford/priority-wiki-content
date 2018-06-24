@@ -28,6 +28,7 @@
 * Fundraising for effective charities
 * Promoting rationality, wisdom, and other good values
 * [Fostering peace and reducing international conflict](/peace)
+* [Moral circle expansion](/Moral-circle-expansion)
 * Fostering inter-cultural exchange
 
 
