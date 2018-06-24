@@ -26,9 +26,12 @@
 * [ACE on Protesting](https://animalcharityevaluators.org/advocacy-interventions/interventions/protests/)
 * [ACE's Models of Media Influence on Demand for Animal Products](https://animalcharityevaluators.org/research/other-topics/models-of-media/)
 
-## Artificial Meat
+## Alternatives to Meat
 
 * [OpenPhil Medium Investigation on Animal Product Alternatives](https://www.openphilanthropy.org/research/cause-reports/animal-product-alternatives)
+
+## Clean Meat
+* [Clean Meat resources](/Clean-Meat)
 * [ACE's Timeline on Cost-Competitive Meat](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
 
 
