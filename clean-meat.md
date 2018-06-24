@@ -2,7 +2,7 @@
 <!-- SUBTITLE:  -->
 
 # Clean Meat
-* ["**Cellular agriculture: An extension of common production methods for food**"](http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf) - This publication, co-written by the Senior Scientist of the Good Food Institute, gives a great overview of the science of cellular agriculture. http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf 
+* ["**Cellular agriculture: An extension of common production methods for food**"](http://www.gfi.org/images/uploads/2018/03/Cellular-Agriculture-for-Animal-Protein.pdf) - This publication, co-written by the Senior Scientist of the Good Food Institute, gives a great overview of the science of cellular agriculture. 
 
 * [**ACE's Timeline on Cost-Competitive Meat**](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
 
