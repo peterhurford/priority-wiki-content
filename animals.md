@@ -31,8 +31,7 @@
 * [OpenPhil Medium Investigation on Animal Product Alternatives](https://www.openphilanthropy.org/research/cause-reports/animal-product-alternatives)
 
 ## Clean Meat
-* [Clean Meat resources](/Clean-Meat)
-* [ACE's Timeline on Cost-Competitive Meat](https://animalcharityevaluators.org/research/other-topics/cost-competitive-timeline/#report)
+* [**See separate PriorityWiki page on Clean Meat**](/Clean-Meat)
 
 
 ## Wild Animal Suffering
