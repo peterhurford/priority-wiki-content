@@ -30,6 +30,7 @@
 * [Fostering peace and reducing international conflict](/peace)
 * [Moral circle expansion](/Moral-circle-expansion)
 * Fostering inter-cultural exchange
+* [Psychedelics](/psychedelics)
 
 
 ## Improving Policy
