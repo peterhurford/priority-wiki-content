@@ -1,5 +1,5 @@
 <!-- TITLE: Improving Nuclear Security -->
-<!-- SUBTITLE: Making sure the world doesn't go BOOM -->
+<!-- SUBTITLE: Reducing the Threat of Nuclear Catastrophe -->
 
 ## Header
 
