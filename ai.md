@@ -9,3 +9,4 @@
 * [OpenPhil: "Some Background on Our Views Regarding Advanced Artifical Intelligence](https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence)
 
 ## Policy Work
+* [80,000 Hours: "Guide to working in AI policy and strategy"](https://80000hours.org/articles/ai-policy-guide/)
