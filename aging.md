@@ -9,3 +9,5 @@
 
 * [OpenPhil Shallow Review on Mechanisms for Aging](https://www.openphilanthropy.org/research/cause-reports/scientific-research/mechanisms-aging)
 * [Strategies for Engineered Negligible Senescence (SENS) Research Foundation](http://www.sens.org/)
+* [Life Extension Advocacy Foundation: LEAF](https://www.leafscience.org/)
+* [Fightaging.org](https://fightaging.org)
