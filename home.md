@@ -40,7 +40,7 @@
 * [Land use / housing reform](/housing)
 * [Improving mental health](/mental-health)
 * [Criminal justice reform](/criminal-justice)
-* [Transformative democratic and economic refom](/transformative-reform)
+* [Transformative democratic and economic reform](/transformative-reform)
 * [Improving civic access and participation](/civic-access)
 * [Advocating for increased foreign aid](/advocating-for-aid)
 * [Improving macroeconomic policy](/macroeconomics)
