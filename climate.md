@@ -11,3 +11,8 @@
 
 * [OpenPhil Medium Review on Geogengineering](https://www.openphilanthropy.org/research/cause-reports/geoengineering)
 * [OpenPhil Shallow Review on Governance of Solar Radiation Management](https://www.openphilanthropy.org/research/cause-reports/SRM-governance)
+
+##Transitioning to 100 % renewable energy
+
+* [www.100.org](http://www.100.org/)
+*  [Go100percent](http://www.go100percent.org/cms/)
