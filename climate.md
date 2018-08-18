@@ -16,3 +16,7 @@
 
 * [www.100.org](http://www.100.org/)
 *  [Go100percent](http://www.go100percent.org/cms/)
+
+## Convincing people that climate change is real
+
+* [How to talk to an ostrich](http://earththeoperatorsmanual.com/main-video/how-to-talk-to-an-ostrich)
