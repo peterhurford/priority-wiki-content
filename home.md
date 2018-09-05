@@ -36,6 +36,7 @@
 ## Improving Policy
 
 * [General background on improving policy](/policy-background)
+* [Improving policy institutions, policy making, policy design, evidence use in policy, etc](/policy-institutions)
 * [Improving nonhuman animal welfare / animal rights](/animals)
 * [Land use / housing reform](/housing)
 * [Improving mental health](/mental-health)
