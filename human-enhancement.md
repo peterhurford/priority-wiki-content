@@ -7,6 +7,7 @@
 * Mental Prosthetics
 	* Neural lace
 * Genetic Engineering
+* Systematic self-improvement of people's daily lives
 
 
 ### Expensive 
@@ -15,6 +16,8 @@
 * Medical interventions
 
 ### Very general / requires mostly behavioral change
+
+Most immediate gains to be had aren't upgrading your brain or body. They are a thousand domain specific improvements to your daily life that add up.
 
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
@@ -35,12 +38,15 @@
 	* Daily environment / situation
 		* Presence of harmful / toxic people in one's life
 		* High stress from...
+			* Finances
+			* Work/School
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
 * Regularly noticing and correcting problems
 	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it)
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
+	
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
