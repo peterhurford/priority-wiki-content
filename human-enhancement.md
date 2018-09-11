@@ -22,6 +22,7 @@ Most gains to be had aren't upgrading your brain or body via transhumanism. They
 
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
+	* Posture in general
 * Lifestyle changes
 	* Sleep 
 		* [A Very Long List Of Sleep Matainance Suggestions](/https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions)
