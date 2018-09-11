@@ -57,7 +57,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
-	* (Cognitive Behavioral Therapy? I've heard it is useful but don't understand it)
+	* (Cognitive Behavioral Therapy? I've heard it is useful but haven't looked.)
 
 	
 ### Skill based
