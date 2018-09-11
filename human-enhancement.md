@@ -29,13 +29,18 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 		* [A Very Long List Of Sleep Matainance Suggestions](https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions)
 		* Polyphasic sleep? (Is this actually a thing that works? I swear I saw a video of scientists having tried it on an artist and the report was that it does - I remember it being very legit looking. And I've heard some ancedotes - at least one person who directly told me they had achieved it. But then there are things like 'supermemo' which say it is impossible.)
 	* Diet (may require monetary gain in many cases?)
+		* Drinking enough water
 	* Exercise 
+	* Bowel health (gross but really important to not have problems with)
 	* Other Habits
 		* General computer usage 
 			* (Switching to Linux helped me a lot.)
 			* Two monitors			 
+		* General Phone Usage
+		* Social Media
+			* (Facebook is designed by the world's best psychologists to capture as much of your time as possible)
 		* Video games 
-			* (Became a lot more productive after I reduce game time after highschool. )
+			* (Became a lot more productive after I reduced game time after highschool. )
 		* Smoking
 * Mental Health
 	* Depression
