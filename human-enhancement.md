@@ -9,6 +9,7 @@
 * Genetic Engineering
 * Systematic optimization of people's daily lives (Taking the 'very general' section and for every person, transform their habits and daily living into a more effective version systematically) 
 	* Requires substantial hypothesizing, experimentation, and people willing to go along with it.
+	* Research into effective interventions in productivity / health are.
 
 
 ### Expensive 
@@ -33,7 +34,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Exercise 
 	* Bowel health (gross but really important to not have problems with)
 	* Other Habits
-		* General computer usage 
+		* General computer usage (This one is really important. We're interfacing with these all day, so we should reduce friction as much as possible. How does one master the usage of computers?) 
 			* (Switching to Linux helped me a lot.)
 			* Two monitors			 
 		* General Phone Usage
@@ -45,10 +46,14 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 * Mental Health
 	* Depression
 	* Daily environment / situation
-		* Presence of harmful / toxic people in one's life
+		* Social interactions
+			* Presence of harmful / toxic people in one's life
+			* Absense of positive effective people that support good choices
 		* High stress from...
 			* Finances
 			* Work/School
+			* Certain people
+			* Repeating events
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
