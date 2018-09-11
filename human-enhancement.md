@@ -11,7 +11,7 @@
 
 ### Expensive 
 * Nootropics
-* Transcranial Magnetic Stimulation* 
+* Transcranial Magnetic Stimulation
 
 ### Very general / requires mostly behavioral change
 * Ergonomics
