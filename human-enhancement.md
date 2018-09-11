@@ -53,7 +53,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 			* Finances
 			* Work/School
 			* Certain people
-			* Repeating events
+			* Events - Repeating and One-off
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
