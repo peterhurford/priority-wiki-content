@@ -17,7 +17,7 @@
 ### Medical 
 
 * Mental Health
- * Depression
+	* Depression
 
 ### Very general / requires mostly behavioral change
 
