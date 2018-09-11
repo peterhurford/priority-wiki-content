@@ -91,4 +91,8 @@ Arguments over definitions
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
 * (How Not To Be Wrong The Power Of Mathematical Thinking has a bunch I want to include, but need to re-read it)
 
+### Misc
+
+"Leveling up"
+* Good mentors are apparently the absolute fastest way to improve. Peak: The Science Of Expertise (if I recall correctly) talks about how teaching is a kind of technology that refines itself over time. That is to say, mentors hook you in to the mechanism by which we advance the forefront of any given skill. The high fidelity information is stored in people. More than that, they can correct you and teach you how to correct yourself. 
 
