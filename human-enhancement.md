@@ -8,6 +8,7 @@
 	* Neural lace
 * Genetic Engineering
 * Systematic optimization of people's daily lives (Taking the 'very general' section and for every person, transform their habits and daily living into a more effective version systematically) 
+	* More than anything we need data on different interventions. What works, what doesn't? What common problems do people encounter in implementing them? What has a big impact and for who? We need to measure success for each problem.
 	* Requires substantial hypothesizing, experimentation, and people willing to go along with it.
 	* Research into effective interventions in productivity / health are.
 
