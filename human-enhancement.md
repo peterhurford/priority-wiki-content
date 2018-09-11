@@ -14,11 +14,6 @@
 * Transcranial Magnetic Stimulation
 * Medical interventions
 
-### Medical 
-
-* Mental Health
-	* Depression
-
 ### Very general / requires mostly behavioral change
 
 * Ergonomics
@@ -34,6 +29,8 @@
 		* Video games 
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
+* Mental Health
+	* Depression
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
