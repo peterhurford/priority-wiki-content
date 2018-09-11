@@ -90,7 +90,7 @@ Arguments over definitions
 	* [Jordan Peterson's clean-your-room youtube video](https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
 * (How Not To Be Wrong The Power Of Mathematical Thinking has a bunch I want to include, but need to re-read it)
-* (The Sequences belong here - they provide a value to thinking that is difficult to communicate. Need people to work through it while recording their thoughts and positions. How they think about things.)
+* (The Sequences belong here - they provide a value to thinking that is difficult to communicate. Need people to work through it while recording their thoughts and positions. Record the change in how they think about things, then determine precisely what areas this actually improves.)
 
 ### Misc
 
