@@ -19,7 +19,7 @@
 	* [Video of it improving drawing abilities](https://www.youtube.com/watch?v=JiP22kTxq_g)
 * Medical interventions
 * Smart Drugs
-	*  if one can avoid burnout, [caffeine, adderall, modifinil, what else?] are among the biggest, immediate, and general impacts one could use for daily productivity.   
+	*  if one can avoid burnout, [caffeine, adderall, modifinil, what else?] are among the biggest, immediate, and general enhancements available for  daily productivity.   
 	* If we limit our scope of 'activity that makes a lasting difference in the world' to the next 20 years, then it may make sense to sacrifice health 20+ years from now with drugs that enhance productivity. Especially if we take into consideration technological advancement. I am unaware of the productivity gain/loss timescales for things like adderall or modafinil. 
 
 ### Very general / requires mostly behavioral change
