@@ -78,7 +78,7 @@
 * [Specific health research](/health-research)
 * [Anti-aging](/aging)
 * Cryonics
-* Human enhancement
+* [Human enhancement](/human-enhancement)
 * [Addressing antibiotic resistance](/antibiotics)
 * Positive psychology
 * [CRISPR](/CRISPR)
