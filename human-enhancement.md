@@ -27,13 +27,13 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Computer posture (Many of us sit at them 10+ hours a day!)
 	* Posture in general
 * Lifestyle changes
-	* Sleep 
-		* [A Very Long List Of Sleep Matainance Suggestions](https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions) (I like this format and would greatly appreciate anyone that compiles similar lists)
-		* Polyphasic sleep? (Is this actually a thing that works? I swear I saw a video of scientists having tried it on an artist and the report was that it does - I remember it being very legit looking. And I've heard some ancedotes - at least one person who directly told me they had achieved it. But then there are things like 'supermemo' which say it is impossible.)
-	* Diet (may require monetary gain in many cases?)
+	* Diet (may require monetary gain in many cases? If someone could organize information on how to eat well and cheaply that would be absolutely incredible. Instructional booklet using best brain science as a foundation.)
 		* Drinking enough water
 	* Exercise 
 	* Bowel health (gross but applies to everyone and really important to not have problems with)
+	* Sleep 
+		* [A Very Long List Of Sleep Matainance Suggestions](https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions) (I like this format and would greatly appreciate anyone that compiles similar lists)
+		* Polyphasic sleep? (Is this actually a thing that works? I swear I saw a video of scientists having tried it on an artist and the report was that it does - I remember it being very legit looking. And I've heard some ancedotes - at least one person who directly told me they had achieved it. But then there are things like 'supermemo' which say it is impossible.)
 	* Other Habits
 		* General computer usage (This one is really important. We're interfacing with these all day, so we should reduce friction as much as possible. How does one master the usage of computers?) 
 			* (Switching to Linux helped me a lot.)
