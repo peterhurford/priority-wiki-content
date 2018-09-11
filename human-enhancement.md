@@ -18,7 +18,7 @@
 
 ### Very general / requires mostly behavioral change
 
-Most gains to be had aren't upgrading your brain or body via transhumanism. They are a thousand domain specific improvements to your daily life that add up.  
+Most gains to be had aren't upgrading your brain or body vis a vis extropianism. They are a thousand domain specific improvements to your daily life that add up.  
 
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
@@ -46,9 +46,7 @@ Most gains to be had aren't upgrading your brain or body via transhumanism. They
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
-* Regularly noticing and correcting problems
-	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
-	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
+
 	
 ### Skill based
 * Learning Effectiveness
@@ -57,6 +55,23 @@ Most gains to be had aren't upgrading your brain or body via transhumanism. They
 * Work-based skill improvement
 * Ability to set and reach goals or meet deadlines
 
+
+
+### Common Problems
+
+(There are some things which happen regularly and generally enough that I think this section is warranted.)
+
+
+Arguments over definitions
+* Rationalist Taboo 
+* [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](/https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong) (The Sequences had a huge impact for me in removing definitional arguments)
+
+Other
+* Regularly noticing and correcting problems
+	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
+	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
+* mindsets / mental models 
+	* [Mental models found repeatedly useful](/https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 
 
