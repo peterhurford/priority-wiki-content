@@ -26,6 +26,8 @@
 	* Other Habits
 		* General computer usage 
 			* (Switching to Linux helped me a lot.)
+			* Two monitors
+			* ~~Emacs~~
 		* Video games 
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
