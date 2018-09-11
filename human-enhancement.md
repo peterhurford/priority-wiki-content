@@ -26,8 +26,7 @@
 	* Other Habits
 		* General computer usage 
 			* (Switching to Linux helped me a lot.)
-			* Two monitors
-			* ~~Emacs~~
+			* Two monitors			 
 		* Video games 
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
@@ -39,6 +38,9 @@
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
+* Regularly noticing and correcting problems
+	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it)
+	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
