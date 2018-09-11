@@ -15,7 +15,9 @@
 * Medical interventions
 
 ### Medical 
-* Depression
+
+* Mental Health
+ * Depression
 
 ### Very general / requires mostly behavioral change
 
@@ -32,7 +34,6 @@
 		* Video games 
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
-* Health
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
