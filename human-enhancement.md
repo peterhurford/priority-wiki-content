@@ -66,13 +66,12 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 
 Arguments over definitions
 * Rationalist Taboo 
-* [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](/https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong/) (The Sequences had a huge impact for me in removing definitional arguments - This also belongs in mindsets / mental models, but unsure how to structure it.)
-
+* [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong) (The Sequences had a huge impact for me in removing definitional arguments - This also belongs in mindsets / mental models, but unsure how to structure it.)
 
 ### mindsets / mental models 
 
 (This section included because how we think about and engage with the world massively impacts our behavior) 
-* [Mental models found repeatedly useful](/https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+* [Mental models found repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 * Regularly noticing and correcting problems
 	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
