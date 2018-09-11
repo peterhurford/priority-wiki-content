@@ -3,17 +3,17 @@
 
 # Methods / Subtopics
 
-Requires significant research / non-actionable today
+### Requires significant research / non-actionable today
 * Mental Prosthetics
 	* Neural lace
 * Genetic Engineering
 
 
-Expensive 
+### Expensive 
 * Nootropics
 * Transcranial Magnetic Stimulation* 
 
-Very general / requires mostly behavioral change
+### Very general / requires mostly behavioral change
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
 * Lifestyle changes
@@ -28,7 +28,7 @@ Very general / requires mostly behavioral change
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
 
-Skill based
+### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
 	* Note taking techniques
