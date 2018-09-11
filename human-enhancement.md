@@ -46,6 +46,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 		* Smoking
 * Mental Health
 	* Depression
+	* Regularly entering a state of flow (Crucial!)
 	* Daily environment / situation
 		* Social interactions
 			* Presence of harmful / toxic people in one's life
@@ -67,6 +68,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Note taking techniques
 * Work-based skill improvement
 * Ability to set and reach goals or meet deadlines
+* Effective use of "Deep Work" 
 
 
 
