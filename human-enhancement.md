@@ -12,8 +12,13 @@
 ### Expensive 
 * Nootropics
 * Transcranial Magnetic Stimulation
+* Medical interventions
 
+### Medical 
+* Depression
+* 
 ### Very general / requires mostly behavioral change
+
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
 * Lifestyle changes
