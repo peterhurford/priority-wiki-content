@@ -81,7 +81,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 (There are some things which happen regularly and generally enough that I think this section is warranted.)
 
 
-Arguments over definitions
+Arguments about definitions
 * Rationalist Taboo 
 * [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong) (The Sequences had a huge impact for me in removing definitional arguments)
 
