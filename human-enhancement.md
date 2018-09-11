@@ -14,7 +14,7 @@
 ### Expensive 
 * Nootropics
 * Transcranial Magnetic Stimulation
-	* [Video of it improving drawing abilities](/https://www.youtube.com/watch?v=JiP22kTxq_g)
+	* [Video of it improving drawing abilities](https://www.youtube.com/watch?v=JiP22kTxq_g)
 * Medical interventions
 
 ### Very general / requires mostly behavioral change
@@ -26,7 +26,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Posture in general
 * Lifestyle changes
 	* Sleep 
-		* [A Very Long List Of Sleep Matainance Suggestions](/https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions)
+		* [A Very Long List Of Sleep Matainance Suggestions](https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions)
 		* Polyphasic sleep? (Is this actually a thing that works? I swear I saw a video of scientists having tried it on an artist and the report was that it does - I remember it being very legit looking. And I've heard some ancedotes - at least one person who directly told me they had achieved it. But then there are things like 'supermemo' which say it is impossible.)
 	* Diet (may require monetary gain in many cases?)
 	* Exercise 
@@ -73,7 +73,7 @@ Arguments over definitions
 (This section included because how we think about and engage with the world massively impacts our behavior) 
 * [Mental models found repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 * Regularly noticing and correcting problems
-	* [Jordan Peterson's clean-your-room youtube video](/https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
+	* [Jordan Peterson's clean-your-room youtube video](https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
 
 
