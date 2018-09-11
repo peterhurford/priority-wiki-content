@@ -18,6 +18,9 @@
 * Transcranial Magnetic Stimulation
 	* [Video of it improving drawing abilities](https://www.youtube.com/watch?v=JiP22kTxq_g)
 * Medical interventions
+* Smart Drugs
+	*  if one can avoid burnout, these are among the biggest, immediate, and general impacts one could use for daily productivity.   
+	* If we limit our scope of 'activity that makes a lasting difference in the world' to the next 20 years, then it may make sense to sacrifice health 20+ years from now with drugs that enhance productivity. I am unaware of the productivity gain/loss timescales for things like adderall or modafinil.
 
 ### Very general / requires mostly behavioral change
 
@@ -98,3 +101,9 @@ Arguments over definitions
 "Leveling up"
 * Good mentors are apparently the absolute fastest way to improve. Peak: The Science Of Expertise (if I recall correctly) talks about how teaching is a kind of technology that refines itself over time. That is to say, mentors hook you in to the mechanism by which we advance the forefront of any given skill. The high fidelity information is stored in people. More than that, they can correct you and teach you how to correct yourself. 
 
+Less common specific problems - (Unsure if this deserves its own section so it goes here for now)
+* Autism 
+* ADD/ADHD
+	* Adderall. Enables massive productivity boost
+* Transgender 
+	* HRT and surgery have almost exclusively positive effects (in every study I've found)
