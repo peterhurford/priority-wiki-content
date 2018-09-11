@@ -4,9 +4,12 @@
 # Methods / Subtopics
 Doable by anyone
 * Ergonomics
+	* Sleep habits
+		* [A Very Long List Of Sleep Matainance Suggestions](/https://www.lesswrong.com/posts/9JFMhW9YHoTKbQEY2/a-very-long-list-of-sleep-maintenance-suggestions)
 * Lifestyle changes
 	* Diet 
 	* Exercise 
+* 
 
 
 Expensive 
