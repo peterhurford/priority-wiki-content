@@ -7,7 +7,8 @@
 * Mental Prosthetics
 	* Neural lace
 * Genetic Engineering
-* Systematic self-improvement of people's daily lives
+* Systematic optimization of people's daily lives (Taking the 'very general' section and for every person, transform their habits and daily living into a more effective version systematically) 
+	* Requires substantial experimentation and people willing to go along with it.
 
 
 ### Expensive 
@@ -17,7 +18,7 @@
 
 ### Very general / requires mostly behavioral change
 
-Most immediate gains to be had aren't upgrading your brain or body. They are a thousand domain specific improvements to your daily life that add up.
+Most gains to be had aren't upgrading your brain or body via transhumanism. They are a thousand domain specific improvements to your daily life that add up.  
 
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
