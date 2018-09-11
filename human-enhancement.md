@@ -2,7 +2,18 @@
 <!-- SUBTITLE: A quick summary of Human Enhancement -->
 
 # Methods / Subtopics
-Doable by anyone
+
+Requires significant research / non-actionable today
+* Mental Prosthetics
+	* Neural lace
+* Genetic Engineering
+
+
+Expensive 
+* Nootropics
+* Transcranial Magnetic Stimulation* 
+
+Very general / requires mostly behavioral change
 * Ergonomics
 	* Computer posture (Many of us sit at them 10+ hours a day!)
 * Lifestyle changes
@@ -11,17 +22,18 @@ Doable by anyone
 	* Diet 
 	* Exercise 
 	* Other Habits
-* 
+		* General computer usage 
+			* (Switching to Linux helped me a lot.)
+		* Video games 
+			* (Became a lot more productive after I reduce game time after highschool. )
+		* Smoking
+
+Skill based
+* Learning Effectiveness
+	* Study habits / techniques
+	* Note taking techniques
+* Work-based skill improvement
 
 
-Expensive 
-* Nootropics
-* Transcranial Magnetic Stimulation
-* 
 
-
-Requires significant research / non-actionable today
-* Mental Prosthetics
-	* Neural lace
-* Genetic Engineering
 
