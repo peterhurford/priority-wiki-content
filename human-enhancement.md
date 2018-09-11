@@ -4,6 +4,10 @@
 # Methods / Subtopics
 Doable by anyone
 * Ergonomics
+* Lifestyle changes
+	* Diet 
+	* Exercise 
+
 
 Expensive 
 * Nootropics
