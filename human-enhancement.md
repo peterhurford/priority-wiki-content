@@ -8,7 +8,7 @@
 	* Neural lace
 * Genetic Engineering
 * Systematic optimization of people's daily lives (Taking the 'very general' section and for every person, transform their habits and daily living into a more effective version systematically) 
-	* Requires substantial experimentation and people willing to go along with it.
+	* Requires substantial hypothesizing, experimentation, and people willing to go along with it.
 
 
 ### Expensive 
