@@ -3,3 +3,7 @@
 
 
 # Header How the art communicates faster as %6000 of any of communication methods we have.
+
+
+# Talk
+Regex says: This website lacks a talk system as far as I can tell, so I'm adding this section to note my thoughts. Art is like encryption, but for emotion. It can communicate complex feelings effectively because we know how to decode them. I don't believe complex technical information can be communicated in this way - just feelings. Most useful technical information requires practice, and so you're never going to communicate years in minutes. Neurons just don't work like that. They need to be repeatedly strengthened and trained to model highly specific situations accurately. 
