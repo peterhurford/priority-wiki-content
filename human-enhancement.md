@@ -32,7 +32,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Diet (may require monetary gain in many cases?)
 		* Drinking enough water
 	* Exercise 
-	* Bowel health (gross but really important to not have problems with)
+	* Bowel health (gross but applies to everyone and really important to not have problems with)
 	* Other Habits
 		* General computer usage (This one is really important. We're interfacing with these all day, so we should reduce friction as much as possible. How does one master the usage of computers?) 
 			* (Switching to Linux helped me a lot.)
