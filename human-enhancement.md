@@ -14,6 +14,7 @@
 ### Expensive 
 * Nootropics
 * Transcranial Magnetic Stimulation
+	* [Video of it improving drawing abilities](/https://www.youtube.com/watch?v=JiP22kTxq_g)
 * Medical interventions
 
 ### Very general / requires mostly behavioral change
@@ -46,6 +47,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 		* Ineffective structure 
 			* (example: you need schedules but parents are impulsive/don't plan)
 			* Lack of support for goals
+	* (Cognitive Behavioral Therapy? I've heard it is useful but don't understand it)
 
 	
 ### Skill based
