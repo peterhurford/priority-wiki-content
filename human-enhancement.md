@@ -98,7 +98,7 @@ Arguments over definitions
 
 ### Misc
 
-[200k on biohacking article.](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
+[biohacking article on spending $200,000.](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
 
 "Leveling up"
 * Good mentors are apparently the absolute fastest way to improve. Peak: The Science Of Expertise (if I recall correctly) talks about how teaching is a kind of technology that refines itself over time. That is to say, mentors hook you in to the mechanism by which we advance the forefront of any given skill. The high fidelity information is stored in people. More than that, they can correct you and teach you how to correct yourself. 
