@@ -31,11 +31,18 @@
 		* Smoking
 * Mental Health
 	* Depression
+	* Daily environment / situation
+		* Presence of harmful / toxic people in one's life
+		* High stress from...
+		* Ineffective structure 
+			* (example: you need schedules but parents are impulsive/don't plan)
+			* Lack of support for goals
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
 	* Note taking techniques
 * Work-based skill improvement
+* Ability to set and reach goals or meet deadlines
 
 
 
