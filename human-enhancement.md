@@ -27,7 +27,8 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 	* Computer posture (Many of us sit at them 10+ hours a day!)
 	* Posture in general
 * Lifestyle changes
-	* Diet (may require monetary gain in many cases? If someone could organize information on how to eat well and cheaply that would be absolutely incredible. Instructional booklet using best brain science as a foundation.)
+	* Diet 
+		* (may require monetary gain in many cases? If someone could organize information on how to eat well and cheaply that would be absolutely incredible. Instructional booklet using best brain science as a foundation.)
 		* Drinking enough water
 	* Exercise 
 	* Bowel health (gross but applies to everyone and really important to not have problems with)
