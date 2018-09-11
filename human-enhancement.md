@@ -80,7 +80,7 @@ Most gains to be had aren't upgrading your brain or body vis a vis extropianism.
 
 Arguments over definitions
 * Rationalist Taboo 
-* [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong) (The Sequences had a huge impact for me in removing definitional arguments - This also belongs in mindsets / mental models, but unsure how to structure it.)
+* [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](https://www.readthesequences.com/Thirty-Seven-Ways-That-Words-Can-Be-Wrong) (The Sequences had a huge impact for me in removing definitional arguments)
 
 ### mindsets / mental models 
 
@@ -90,6 +90,7 @@ Arguments over definitions
 	* [Jordan Peterson's clean-your-room youtube video](https://www.youtube.com/watch?v=PE0u7-SX2hs) (There is probably a better way to get across this mentality, but I don't know it. Some people react negatively to Peterson so an edited/paraphrased transcript would be welcome.)
 	* (Little things like regularly tripping over your bag. So you make a habit of putting your bag where it won't get tripped on.)
 * (How Not To Be Wrong The Power Of Mathematical Thinking has a bunch I want to include, but need to re-read it)
+* (The Sequences belong here - they provide a value to thinking that is difficult to communicate. Need people to work through it while recording their thoughts and positions. How they think about things.)
 
 ### Misc
 
