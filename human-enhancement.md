@@ -16,7 +16,7 @@
 
 ### Medical 
 * Depression
-* 
+
 ### Very general / requires mostly behavioral change
 
 * Ergonomics
@@ -32,7 +32,7 @@
 		* Video games 
 			* (Became a lot more productive after I reduce game time after highschool. )
 		* Smoking
-
+* Health
 ### Skill based
 * Learning Effectiveness
 	* Study habits / techniques
