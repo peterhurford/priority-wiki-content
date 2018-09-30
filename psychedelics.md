@@ -9,3 +9,4 @@
 * [The Psychedelic Society](https://www.psychedelicsociety.org.uk)
 * [MycoMeditations](https://www.mycomeditations.com/)
 * [The Third Wave](https://thethirdwave.co/)
+* [Beckley Foundation](https://www.beckleyfoundation.org/)
