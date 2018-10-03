@@ -98,6 +98,7 @@ Arguments about definitions
 
 ### Misc
 
+[https://80000hours.org/career-guide/how-to-be-successful/](https://80000hours.org/career-guide/how-to-be-successful/)
 [biohacking article on spending $200,000.](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
 
 "Leveling up"
