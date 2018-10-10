@@ -86,3 +86,10 @@
 * [Clean Meat](/Clean-Meat)
 
 ## Meta (about cause priortisation)
+
+* [For diverse and different groups](/For diverse and different groups)
+* [If giving influence / political power / visibility / etc](/If giving influence political power visibility etc)
+* [How to account for long term, follow-through and sysetmic effects](/How to account for long term, follow-through and sysetmic effects)
+* To find cause x
+* How to explain / sell cause priortisation
+
