@@ -3,7 +3,7 @@
 
 # List of Causes
 
-## Risks to the long-term future (Existential, Catastrophic, Suffering)
+## Risks to the Long-Term Future (Existential, Catastrophic, Suffering)
 
 * [General background on existential / catastrophic future risks](/future-risks-background)
 * [Reducing risks from artifical intelligence](ai)
