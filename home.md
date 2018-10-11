@@ -89,14 +89,16 @@
 * Nootropics
 * [Clean Meat](/Clean-Meat)
 
-## Meta (about cause prioritisation)
+## Meta (about Cause Prioritisation)
 
+* The Importance of Cause Prioritization
+* Crucial Considerations
 * [For diverse and different groups](/For diverse and different groups)
 * [If giving influence / political power / visibility / etc](/If giving influence political power visibility etc)
 * [How to account for long term, follow-through and systemic effects](/How to account for long term, follow-through and systemic effects)
 * [Cluelessness, flow through and indirect effects](/flow-through)
 * To find cause X
-* How to explain / sell cause priortisation
+* How to explain / sell cause prioritisation
 
 
 # About
