@@ -1,4 +1,4 @@
-<!-- TITLE: S Risks -->
+<!-- TITLE: Suffering Risks -->
 <!-- SUBTITLE: A quick summary of Suffering Risks -->
 
 # Summary
