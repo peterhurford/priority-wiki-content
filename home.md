@@ -31,6 +31,7 @@
 * [Fostering peace and reducing international conflict](/peace)
 * [Moral circle expansion](/Moral-circle-expansion)
 * Fostering inter-cultural exchange
+* [Decision-making under moral uncertainty](/moral-uncertainty) 
 * [Psychedelics](/psychedelics)
 
 
