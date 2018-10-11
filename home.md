@@ -39,21 +39,27 @@
 
 * [General background on improving policy](/policy-background)
 * [Improving policy institutions, policy making, policy design, evidence use in policy, etc](/policy-institutions)
-* [Improving nonhuman animal welfare / animal rights](/animals)
-* [Land use / housing reform](/housing)
-* [Improving mental health](/mental-health)
-* [Criminal justice reform](/criminal-justice)
+* [Party politics](/party-politics)
 * [Transformative democratic and economic reform](/transformative-reform)
 * [Improving civic access and participation](/civic-access)
-* [Advocating for increased foreign aid](/advocating-for-aid)
-* [Improving macroeconomic policy](/macroeconomics)
-* [Party politics](/party-politics)
 * [Improving taxation policy](/taxation)
-* [Broadband policy](/broadband)
 * Improving journalism
-* [Improving drug policy](/drug-policy)
 * Improving transportation
 * [Patent reform](/patents)
+* [Land use / housing reform](/housing)
+* [Broadband policy](/broadband)
+
+### Human Welfare
+* [Improving mental health](/mental-health)
+* [Criminal justice reform](/criminal-justice)
+* [Improving macroeconomic policy](/macroeconomics)
+* [Improving drug policy](/drug-policy)
+* [Advocating for increased foreign aid](/advocating-for-aid)
+
+### Non-Human Animals
+ [Improving nonhuman animal welfare / animal rights](/animals)
+
+### Long-Term Future
 * AI Policy
 
 
