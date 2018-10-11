@@ -85,12 +85,12 @@
 * Nootropics
 * [Clean Meat](/Clean-Meat)
 
-## Meta (about cause priortisation)
+## Meta (about cause prioritisation)
 
 * [For diverse and different groups](/For diverse and different groups)
 * [If giving influence / political power / visibility / etc](/If giving influence political power visibility etc)
-* [How to account for long term, follow-through and sysetmic effects](/How to account for long term, follow-through and sysetmic effects)
+* [How to account for long term, follow-through and systemic effects](/How to account for long term, follow-through and systemic effects)
 * [Cluelessness, flow through and indirect effects](/flow-through-and-indirect-effects)
-* To find cause x
+* To find cause X
 * How to explain / sell cause priortisation
 
