@@ -10,7 +10,7 @@ From [EA Concepts (a good introduction)](https://concepts.effectivealtruism.org/
 Approaches:
 * [Nick Bostrom: Parliamentary Model](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html)
 * [Open Philantropy Project: Worldview Diversification](https://www.openphilanthropy.org/blog/worldview-diversification)
-* Will MacAskill: Maximize Expected Value (for cardinal moral theories)
+* Will MacAskill: Expected Moral Value (for cardinal moral theories)
 * Will MacAskill: Borda Rule (for merely ordinal moral theories)
 * Christian Tarsney: Stochastic Dominance (for merely ordinal moral theories)
 * My Favourite Theory (generally considered inadequate)
