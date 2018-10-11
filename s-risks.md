@@ -8,7 +8,7 @@ Althaus and Gloor (2016):
 
 ### Practice
 
-The primary organization working on suffering risks (s-risks) is the [Foundational Research Institute (FRI)](https://foundational-research.org/). A focus on reducing s-risks is often paired with the moral belief that (the same amount of) suffering is morally worse than (the same amount of) happiness or other positive values. However, such a position is not necessary to believe s-risks are important to reduce. 
+The primary organization working on suffering risks (s-risks) is the [Foundational Research Institute (FRI)](https://foundational-research.org/), a research project of the [EA Foundation](https://ea-foundation.org/). A focus on reducing s-risks is often paired with the moral belief that (the same amount of) suffering is morally worse than (the same amount of) happiness or other positive values. However, such a position is not necessary to believe s-risks are important to reduce. 
 
 # Sources
 [Tomasik, B. (2011). Risks of Astronomical Future Suffering. *Foundational Research Institute*](https://foundational-research.org/risks-of-astronomical-future-suffering/)
