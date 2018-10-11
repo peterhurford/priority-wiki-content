@@ -17,6 +17,7 @@
 * [Reducing risks from supervolcanoes](/volcanoes)
 * [Reducing risks from asteroids](/asteroids)
 * [Improving disaster survival and recovery (e.g., creating disaster shelters / refuges, food backup plans)](/refuges)
+* [Risks of astronomical future suffering](s-risks)
  
  
  ## Improving Research, Decisions, and Values
