@@ -18,4 +18,4 @@ https://www.effectivealtruism.org/articles/making-sense-of-long-term-indirect-ef
 http://effective-altruism.com/ea/zt/five_ways_to_handle_flowthrough_effects/
 https://www.iffs.se/media/22052/effective-altruism-j-dynamic-effects-j-and-coordination-institute-for-futures-studies-october-2016-4.pdf
 https://blog.givewell.org/2013/05/15/flow-through-effects/
-[Tomasik, 2013. Why Charities Usually Don't Differ Astronomically in Expected Cost-Effectiveness](http://reducing-suffering.org/why-charities-dont-differ-astronomically-in-cost-effectiveness/#Argument_1_Many_types_of_flow-through_effects)
+[Tomasik, B. (2013). Why Charities Usually Don't Differ Astronomically in Expected Cost-Effectiveness](http://reducing-suffering.org/why-charities-dont-differ-astronomically-in-cost-effectiveness/#Argument_1_Many_types_of_flow-through_effects)
