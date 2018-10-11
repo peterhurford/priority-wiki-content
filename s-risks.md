@@ -10,7 +10,7 @@ Althaus and Gloor (2016):
 
 The primary organization working on suffering risks (s-risks) is the [Foundational Research Institute (FRI)](https://foundational-research.org/). A focus on reducing s-risks is often paired with the moral belief that (the same amount of) suffering is morally worse than (the same amount of) happiness or other positive values. However, such a position is not necessary to believe s-risks are important to reduce. 
 
-## Sources
-[Risks of Astronomical Future Suffering](https://foundational-research.org/risks-of-astronomical-future-suffering/)
-[Superintelligence as a Cause or Cure for Risks of Astronomical Suffering](https://foundational-research.org/superintelligence-cause-cure-risks-astronomical-suffering/)
-[Reducing Risks of Astronomical Suffering: A Neglected Priority](https://foundational-research.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/)
+# Sources
+[Tomasik, B. (2011). Risks of Astronomical Future Suffering. *Foundational Research Institute*](https://foundational-research.org/risks-of-astronomical-future-suffering/)
+[Sotala, K. & L. Gloor (2017) Superintelligence as a Cause or Cure for Risks of Astronomical Suffering. *Informatica* Vol. 41 No. 4](https://foundational-research.org/superintelligence-cause-cure-risks-astronomical-suffering/)
+[Althaus, D. & L. Gloor (2016). Reducing Risks of Astronomical Suffering: A Neglected Priority. *Foundational Research Institute*](https://foundational-research.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/)
