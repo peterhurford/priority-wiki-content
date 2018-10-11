@@ -3,10 +3,11 @@
 
 
 ### Sources
-[Greaves, H. (2016). Cluelessness. Proceedings of the Aristotelian Society, 116(3), 311–339](https://philpapers.org/rec/GREC-38)
+**Academic sources**
+[Greaves, H. (2016). Cluelessness. *Proceedings of the Aristotelian Society*, 116(3), 311–339](https://philpapers.org/rec/GREC-38)
+[Lenman, J. (2000). Consequentialism and Cluelessness. Philosophy & Public Affairs, 29(4), 342–370](https://philpapers.org/rec/LENCAC-3)
 
-Lenman, J. (2000). Consequentialism and Cluelessness. Philosophy & Public Affairs, 29(4), 342–370. Via https://philpapers.org/rec/LENCAC-3
-
+**Non-academic sources**
 http://effective-altruism.com/ea/9f/on_progress_and_prosperity/
 http://reflectivedisequilibrium.blogspot.nl/2013/12/what-proxies-to-use-for-flow-through.html
 https://www.effectivealtruism.org/articles/making-sense-of-long-term-indirect-effects-rob-wiblin/
