@@ -2,8 +2,8 @@
 <!-- SUBTITLE: A quick summary of Flow Through And Indirect Effects -->
 
 
-**Sources**
-Greaves, H. (2016). Cluelessness. Proceedings of the Aristotelian Society, 116(3), 311–339. Via https://philpapers.org/rec/GREC-38
+### Sources
+[Greaves, H. (2016). Cluelessness. Proceedings of the Aristotelian Society, 116(3), 311–339](https://philpapers.org/rec/GREC-38)
 
 Lenman, J. (2000). Consequentialism and Cluelessness. Philosophy & Public Affairs, 29(4), 342–370. Via https://philpapers.org/rec/LENCAC-3
 
