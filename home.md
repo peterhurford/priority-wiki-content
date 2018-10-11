@@ -3,7 +3,7 @@
 
 # List of Causes
 
-## Existential / Catastrophic Future Risks
+## Risks to the long-term future (Existential, Catastrophic, Suffering)
 
 * [General background on existential / catastrophic future risks](/future-risks-background)
 * [Reducing risks from artifical intelligence](ai)
@@ -32,7 +32,7 @@
 * [Moral circle expansion](/Moral-circle-expansion)
 * Fostering inter-cultural exchange
 * [Decision-making under moral uncertainty](/moral-uncertainty) 
-* [Psychedelics](/psychedelics)
+* [Metrics for near-term human welfare](/human-welfare-metrics)
 
 
 ## Improving Policy
@@ -72,7 +72,8 @@
 * [Improving developed world education](/developed-world-education)
 * Removing lead
 * [Improving open source software](/improving-open-source-software)  
-
+* Mental Health
+* [Psychedelics](/psychedelics)
 
 ## Specific Scientific Research
 
