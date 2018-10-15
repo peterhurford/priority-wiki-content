@@ -100,12 +100,7 @@
 
 * [The Importance of Cause Prioritization](https://80000hours.org/problem-profiles/global-priorities-research/#why-work-on-global-priorities-research)
 * [Crucial Considerations](https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/)
-* [For diverse and different groups](/For diverse and different groups)
-* [If giving influence / political power / visibility / etc](/If giving influence political power visibility etc)
-* [How to account for long term, follow-through and systemic effects](/How to account for long term, follow-through and systemic effects)
 * [Cluelessness, flow through and indirect effects](/flow-through)
-* To find cause X
-* How to explain / sell cause prioritisation
 
 
 # About
