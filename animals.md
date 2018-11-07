@@ -39,3 +39,7 @@
 * [Wild-Animal Suffering Research](https://was-research.org/)
 * [Humane Insecticides](http://reducing-suffering.org/humane-insecticides/)
 * [Insecticides and other invertebrate population control methods](https://was-research.org/paper/analysis-lethal-methods-wild-animal-population-control-invertebrates/)
+
+## Local Animal Rescue Organizations
+* [Austin Pets Alive!](https://www.austinpetsalive.org/)
+* [San Antonio Pets Alive!](https://www.sanantoniopetsalive.org/)
