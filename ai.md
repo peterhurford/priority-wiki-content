@@ -11,3 +11,4 @@
 
 ## Policy Work
 * [80,000 Hours: "Guide to working in AI policy and strategy"](https://80000hours.org/articles/ai-policy-guide/)
+* [GCRI AI Research](http://gcrinstitute.org/ai/)
