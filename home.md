@@ -79,7 +79,7 @@
 * [Improving developed world education](/developed-world-education)
 * Removing lead
 * [Improving open source software](/improving-open-source-software)  
-* Mental Health
+* [Mental Health](/mental-health)
 * [Psychedelics](/psychedelics)
 
 ## Specific Scientific Research
