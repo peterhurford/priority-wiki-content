@@ -1,4 +1,4 @@
-<!-- TITLE: Mental Health -->
+<!-- TITLE: Mental health -->
 <!-- SUBTITLE: Keeping everyone happy -->
 
 ## Header
