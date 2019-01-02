@@ -18,4 +18,4 @@ There is again an increasing academic interest in the use of psychedelics, espec
 * [The Third Wave](https://thethirdwave.co/)
 * [Beckley Foundation](https://www.beckleyfoundation.org/)
 * [Compass Pathways](https://compasspathways.com/)
-* [Psychedelics Research Group at Imperial College London](https://www.imperial.ac.uk/department-of-medicine/research/brain-sciences/psychiatry/psychedelics/)
+* [Psychedelics Research Group](https://www.imperial.ac.uk/department-of-medicine/research/brain-sciences/psychiatry/psychedelics/) at Imperial College London
