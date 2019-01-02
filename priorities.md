@@ -16,6 +16,8 @@ Coming Soon
 
 Coming Soon
 
+## Organisations Working on Global Cause Prioritisation
+* [Global Priorities Institute](https://globalprioritiesinstitute.org/)
 
 ## Managing Prioritization Resources
 * [Discussion on fragmentation from wikis in the same reference class as Priority Wiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/enw)
