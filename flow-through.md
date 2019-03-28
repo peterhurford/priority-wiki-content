@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Flow Through And Indirect Effects -->
 
 ### Summary
-*Flow-through effects* or *indirect effects* are hard to define. They refer to effects other than the direct or intended effects of an action, intervention, or policy. An example is saving someone's life: as a consequence, that person might make have an impactful career (positive or negative), eat meat (negative), make other people happy (positive), unhappy (negative), contribute to carbon-dioxide emissions (negative), etc. The direct effect is saving someone's life, but if one cares about **all** consequences, then the indirect effects matter as well. 
+*Flow-through effects* or *indirect effects* are hard to define. They refer to effects other than the direct or intended effects of an action, intervention, or policy. An example is saving someone's life: as a consequence, that person might have an impactful career (positive or negative), eat meat (negative), make other people happy (positive), unhappy (negative), contribute to carbon-dioxide emissions (negative), etc. The direct effect is saving someone's life, but if one cares about **all** consequences, then the indirect effects matter as well. 
 
 There is no consensus on the importance of flow-through effects. Some believe they imply we cannot know which act brings about better consequences (Greaves, 2016), while others believe they imply the effectiveness of most charities do not differ that much (Tomasik, 2013). Even if one believes flow-through effects are important, one might ignore them because uncovering them is not very tractable. 
 
