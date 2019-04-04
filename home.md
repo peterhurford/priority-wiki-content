@@ -67,6 +67,7 @@
 ## Developing World Health and Economic Development
 
 * [Improving developing world health](/developing-world-health)
+* [Improving developing world education](/developing-world-education)
 * [Reducing extreme poverty and improving economic empowerment](/extreme-poverty)
 * [Improving global trade](/global-trade)
 * [Increasing immigration / open borders](/immigration)
