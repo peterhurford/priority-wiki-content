@@ -13,18 +13,18 @@
 * Arranging interactions with companion animals
 * Writing and promoting articles
 * Promoting on social media
-* [ACE on Online ads](https://animalcharityevaluators.org/advocacy-interventions/interventions/online-ads/)
-* [ACE on Leafleting](https://animalcharityevaluators.org/advocacy-interventions/interventions/leafleting/)
-* [ACE on Humane education](https://animalcharityevaluators.org/advocacy-interventions/interventions/humane-education/)
+* [ACE on Online ads](https://animalcharityevaluators.org/advocacy-interventions/interventions/online-ads/) (This 2016 ACE report is archived. While it may be the best current report, it is not kept updated.)
+* [ACE on Leafleting](https://animalcharityevaluators.org/advocacy-interventions/interventions/leafleting/) (This report is regularly updated.)
+* [ACE on Humane education](https://animalcharityevaluators.org/advocacy-interventions/interventions/humane-education/) (This 2014 ACE report is archived. While it may be the best current report, it is not kept updated.)
 * Veg pledges
 
 
 ## Political and Corporate Advocacy
 
-* [ACE on Corporate Outreach](https://animalcharityevaluators.org/advocacy-interventions/interventions/corporate-outreach/)
-* [ACE on Undercover Investigations](https://animalcharityevaluators.org/advocacy-interventions/interventions/undercover-investigations/)
-* [ACE on Protesting](https://animalcharityevaluators.org/advocacy-interventions/interventions/protests/)
-* [ACE's Models of Media Influence on Demand for Animal Products](https://animalcharityevaluators.org/research/other-topics/models-of-media/)
+* [ACE on Corporate Outreach](https://animalcharityevaluators.org/advocacy-interventions/interventions/corporate-outreach/) (This 2014 ACE report is archived. While it may be the best current report, it is not kept updated.)
+* [ACE on Undercover Investigations](https://animalcharityevaluators.org/advocacy-interventions/interventions/undercover-investigations/) (This 2016 ACE report is archived. While it may be the best current report, it is not kept updated.)
+* [ACE on Protesting](https://animalcharityevaluators.org/advocacy-interventions/interventions/protests/) (This report is regularly updated.)
+* [ACE's Models of Media Influence on Demand for Animal Products](https://animalcharityevaluators.org/research/other-topics/models-of-media/) (This report is regularly updated.)
 
 ## Alternatives to Meat
 
