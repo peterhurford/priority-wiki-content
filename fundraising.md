@@ -37,5 +37,5 @@ Focuses on platforms and practical techniques (e.g., "[Peer to peer fundraising]
 * [Science of Philanthropy Initiative 'Practical Takeaways'](http://spihub.org/resources/practice)
 * [Behavioural Insights Team (2013), “Applying Behavioural Insights to Charitable Giving.” ](http://www.behaviouralinsights.co.uk/publications/applying-behavioural-insights-to-charitable-giving/)
 * [Ideas42 work  Gates foundation "giving by all" initiative](https://www.ideas42.org/blog/project/future-charitable-giving/)
-	* Report: [Behavior and charitable giving)[https://www.ideas42.org/wp-content/uploads/2016/03/Behavior-and-Charitable-Giving_ideas42.pdf]
-		* [Airtable organisation of the elements of the above report](https://airtable.com/shrGCwJBNUtNKubhe)
+	* Report: [Behavior and charitable giving](https://www.ideas42.org/wp-content/uploads/2016/03/Behavior-and-Charitable-Giving_ideas42.pdf)
+		* [Airtable organisation of  above report](https://airtable.com/shrGCwJBNUtNKubhe)
