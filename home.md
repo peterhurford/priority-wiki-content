@@ -26,7 +26,7 @@
 * [Improving scientific research](/science)
 * [Improving decision making and forecasting](/decision-making)
 * [Promoting effective altruism](/promoting-ea)
-* Fundraising for effective charities
+* [Fundraising for effective charities](/fundraising)
 * Promoting rationality, wisdom, and other good values
 * [Fostering peace and reducing international conflict](/peace)
 * [Moral circle expansion](/Moral-circle-expansion)
