@@ -16,7 +16,7 @@ Coming Soon
 
 Coming Soon
 
-## Organisations Working on Global Prioritisaties Research
+## Organisations Working on Global Priorities Research
 * [Global Priorities Institute](https://globalprioritiesinstitute.org/)
 
 ## Managing Prioritization Resources
