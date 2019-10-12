@@ -12,6 +12,7 @@ There is no consensus on the importance of flow-through effects. Some believe th
 [Lenman, J. (2000). Consequentialism and Cluelessness. Philosophy & Public Affairs, 29(4), 342–370](https://philpapers.org/rec/LENCAC-3)
 
 **Non-academic sources**
+https://forum.effectivealtruism.org/posts/LPMtTvfZvhZqy25Jw/what-consequences
 http://effective-altruism.com/ea/9f/on_progress_and_prosperity/
 http://reflectivedisequilibrium.blogspot.nl/2013/12/what-proxies-to-use-for-flow-through.html
 https://www.effectivealtruism.org/articles/making-sense-of-long-term-indirect-effects-rob-wiblin/
