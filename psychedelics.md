@@ -5,7 +5,7 @@
 
 There is again an increasing academic interest in the use of psychedelics, especially assisting psychotherapy for the treatment of depression, (social) anxiety, and addiction. The most used substances are psilocybin (active ingredient in "magic mushrooms"), LSD, ketamine, and MDMA. A popular overview of the science and history of psychedelics can be found in Michael Pollan's book [How to Change Your Mind](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind) (2018). This book focuses mostly on psilocybin and MDMA. It also contains useful lessons for movement building and some analysis of the banning of psychedelics in the 1960's.
 
-[This essay](https://forum.effectivealtruism.org/posts/zwno3Gxb8p6DmfadP/cash-prizes-for-the-best-arguments-against-psychedelics) makes the case for psychedelics being promising as an EA cause area. There are also dissenting perspectives in the comments.
+[This essay](https://forum.effectivealtruism.org/posts/zwno3Gxb8p6DmfadP/cash-prizes-for-the-best-arguments-against-psychedelics) makes the case for psychedelics being promising as an EA cause area. There are dissenting perspectives in the comments.
 
 
 
