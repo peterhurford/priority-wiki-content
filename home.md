@@ -13,7 +13,7 @@
 * [Geomagnetic Storms](/geomagnetic-storms)
 * [Addressing overpopulation and resource scarcity](/resource-scarcity)
 * [Reducing risks from nanotechnology / atomically precise manufacturing](/nanotechnology)
-* Improving cybersecurity
+* [Improving cybersecurity](https://forum.effectivealtruism.org/posts/ZJiCfwTy5dC4CoxqA/information-security-careers-for-gcr-reduction)
 * [Reducing risks from supervolcanoes](/volcanoes)
 * [Reducing risks from asteroids](/asteroids)
 * [Improving disaster survival and recovery (e.g., creating disaster shelters / refuges, food backup plans)](/refuges)
