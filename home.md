@@ -89,7 +89,7 @@
 * [Biomedical Research](/biomedical)
 * [Specific health research](/health-research)
 * [Anti-aging](/aging)
-* Cryonics
+* [Cryonics](/cryonics)
 * [Human enhancement](/human-enhancement)
 * [Addressing antibiotic resistance](/antibiotics)
 * Positive psychology
