@@ -6,7 +6,7 @@
 ## Risks to the Long-Term Future (Existential, Catastrophic, Suffering)
 
 * [General background on existential / catastrophic future risks](/future-risks-background)
-* [Reducing risks from testestest artifical intelligence](ai)
+* [Reducing risks from artifical intelligence](ai)
 * [Improving biosecurity](/biosecurity)
 * [Improving nuclear security](/nukes)
 * [Reducing risks from climate change](/climate)
