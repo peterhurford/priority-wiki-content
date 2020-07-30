@@ -94,7 +94,7 @@
 * [Addressing antibiotic resistance](/antibiotics)
 * Positive psychology
 * [CRISPR](/CRISPR)
-* Nootropics
+* [Nootropics](/nootropics)
 * [Clean Meat](/Clean-Meat)
 
 ## Meta (about Cause Prioritisation)
